@@ -1,0 +1,1 @@
+•Even in the digital age, customers still use their signatures as a primary form of authentication for a range of transactions. Their signatures authorize checks, new account paperwork, loan documents, and more, and to minimize the risk of fraud.Discriminates between original and forgeted signature.
